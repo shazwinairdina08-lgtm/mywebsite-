@@ -1,0 +1,36 @@
+body{
+font-family: Arial 
+margin: 20px;
+}
+
+h1, h2{
+color:black;
+}
+
+a{
+color:darkblue;
+text-decoration: none;
+fontweight; bold;
+}
+
+a:hover{
+color:lightblue;
+text-decoration:underline;
+}
+
+table{
+background-color: white;
+}
+
+table td{
+background-color: white;
+}
+
+photo{
+text-align: center;
+}
+
+photo p{
+margin-top: 5px;
+font-weight: bold;
+}
